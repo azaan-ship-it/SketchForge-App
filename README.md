@@ -12,7 +12,7 @@ Or grab it from the [Releases](https://github.com/azaan-ship-it/SketchForge-App/
 
 ## Play on the web
 
-**[Open SketchForge in your browser](https://sketchforge-nuk8.onrender.com)**, no install needed. (The free server sleeps when nobody is using it, so the first load can take about a minute.)
+**[Open SketchForge in your browser](https://playsketchforge.onrender.com)**, no install needed. (The free server sleeps when nobody is using it, so the first load can take about a minute.)
 
 ## Features
 
